@@ -6,7 +6,7 @@ Java
 個人で練習用に作成した、お菓子の通販サイトです。
 以下の環境で作成しました。<br>
 データベース：H2<br>
-Webアプリケーションサーバー：Tomcat<br>
+Webアプリケーションサーバー：Tomcat 8.5<br>
 
 warファイルをTomcatにデプロイする場合、以下のURLでアクセスしてください。<br>
 http://localhost:8080/sweets-deploy/purchase/
